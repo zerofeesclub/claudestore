@@ -27,8 +27,6 @@
 - 🆓 **Free 4-hour trial** — try all Claude models with no payment required
 - 🛡️ **One key, all models** — Opus, Sonnet, Haiku with a single API key
 
-> **API Base URL:** `https://api.awstore.cloud`
-
 ---
 
 ## 🚀 Quick Start
