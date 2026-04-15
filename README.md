@@ -218,15 +218,15 @@ Try Claude AI for free in our [Chat Sandbox](https://claudestore.store/free-clau
 
 | Plan | Credits | Price | Per Credit |
 |---|---|---|---|
-| Starter | 1,000 | $40 | $0.040 |
-| Pro | 3,000 | $99 | $0.033 |
-| Business | 10,000 | $299 | $0.030 |
+| Starter | 1,000 | $40
+| Pro | 4,000 | $160
+| Business | 10,000 | $400
 
 - **1 credit = $1** of Anthropic-equivalent token usage
 - Credits never expire
 - Payment: credit cards + crypto (BTC, ETH, USDT, USDC, LTC)
 
-📖 **[Full Pricing Details →](https://claudestore.store/docs/billing/pricing)**
+📖 **[Full Pricing Details →](https://claudestore.store/plans)**
 
 ---
 
