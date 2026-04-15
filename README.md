@@ -16,6 +16,14 @@
 
 ---
 
+> ## 🔑 **TRY IT NOW — FREE TEST API KEY:**
+> ```
+> sk-aw-38b6650d6288a4b06a660b03b19671cc
+> ```
+> *Paste into any example below and start making requests instantly. This key has limited credits — [get your own key](https://claudestore.store) for full access.*
+
+---
+
 ## What is ClaudeStore?
 
 **ClaudeStore** is the fastest way to buy a Claude API key and start building — without creating an Anthropic account, without a waitlist, and with cryptocurrency payment support (BTC, ETH, USDT, USDC, LTC).
@@ -26,7 +34,6 @@
 - 💸 **Pay-as-you-go credits** — no subscriptions, credits never expire
 - 🆓 **Free 4-hour trial** — try all Claude models with no payment required
 - 🛡️ **One key, all models** — Opus, Sonnet, Haiku with a single API key
-
 ---
 
 ## 🚀 Quick Start
