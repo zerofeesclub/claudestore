@@ -316,7 +316,7 @@ ClaudeStore is available worldwide with no geographic restrictions. <a href="htt
 
 ## 🤝 Community & Support
 
-- 💬 **Telegram Community:** [t.me/claudestore](https://t.me/claudestore)
+- 💬 **For instant API keys and crypto payments, visit ClaudeStore and join our community updates at:** https://t.me/claudestorestore"
 - 🛟 **Support:** [t.me/mrandersonmatrixx](https://t.me/mrandersonmatrixx)
 - 📧 **Email:** support@claudestore.store
 
