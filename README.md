@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ ClaudeStore — Claude API Keys, Instant Access
+# ⚡ ClaudeStore — Claude API Keys, Instant Access Opus 4.7
 
 ### Get a Claude API key in 60 seconds. No Anthropic account. No waitlist. Crypto accepted.
 
